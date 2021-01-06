@@ -1,0 +1,4 @@
+name: AutoWhiteList
+version: ${project.version}
+main: com.confusinguser.autowhitelist.AutoWhiteList
+description: Automatically whitelists players from the specified hypixel guilds, useful for guild SMPs 

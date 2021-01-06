@@ -1,0 +1,5 @@
+API_Key: "" # Can be obtained by doing "/api new" on hypixel
+Mongo_database_uri: "" # I ain't explaining shit about this one
+guild_IDs: [ # The ID of the hypixel guild you want to whitelist, can be obtained by going to api.hypixel.net/findGuild?key=<API_KEY>&byName=<GUILD_NAME>
+
+]
